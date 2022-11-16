@@ -1,0 +1,3 @@
+This is my sample doc for sprint 2.
+In this sprint we have created a home page where the user can upload his/her medication details.
+The medication details will be stored in our IBM cloudant database.
