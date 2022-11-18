@@ -1,4 +1,8 @@
 JIRA PROJECT BOARD LINK - SPRINT 1
 
-
 https://medication-intimator.atlassian.net/jira/software/projects/MI/boards/1
+
+
+new link:
+
+https://medi-intimator.atlassian.net/jira/software/projects/PAMI/boards/1
