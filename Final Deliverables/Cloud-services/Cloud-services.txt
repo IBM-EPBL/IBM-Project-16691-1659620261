@@ -1,0 +1,10 @@
+Required and udes IBM cloud services:
+------------------------------------
+
+IBM Node-Red
+
+IBM cloudant database
+
+IBM Watson IoT platform
+
+IBM Text to Speech Service
